@@ -1,0 +1,21 @@
+## Business Deva
+
+p:Copyright (c)2023 Quinn Michaels
+
+p:This is the main help file for Business Deva. Providing support to deva.world.
+
+id: 2891620655476
+key: BusinessDeva
+name: Business Deva
+describe: Providing support to deva.world.
+
+### Methods
+
+cmd:#BusinessDeva uid
+p:Generate a unique id from the Business Deva.
+
+cmd:#BusinessDeva status
+p:Return the status for the Business Deva.
+
+cmd:#BusinessDeva help
+p:Get help using the Business Deva

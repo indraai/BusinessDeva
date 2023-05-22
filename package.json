@@ -1,0 +1,29 @@
+{
+  "id": 2891620655476,
+  "name": "@indra.ai/businessdeva",
+  "version": "0.0.1",
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "copyright": "2023",
+  "description": "The Business Deva",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/BusinessDeva.git"
+  },
+  "keywords": [
+    "Business",
+    "Deva",
+    "deva.world"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/BusinessDeva/issues"
+  },
+  "homepage": "https://github.com/indraai/BusinessDeva#readme",
+  "dependencies": {
+    "@indra.ai/deva": "^1.1.41"
+  }
+}

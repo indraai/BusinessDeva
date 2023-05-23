@@ -1,5 +1,5 @@
 // Copyright (c)2023 Quinn Michaels
-// Security Deva
+// BUSINESS Deva
 
 
 const fs = require('fs');
@@ -23,7 +23,7 @@ const data_path = path.join(__dirname, 'data.json');
 const {agent,vars} = require(data_path).DATA;
 
 const Deva = require('@indra.ai/deva');
-const DEVELOPMENT = new Deva({
+const BUSINESS = new Deva({
   info,
   agent: {
     id: agent.id,
@@ -83,4 +83,4 @@ const DEVELOPMENT = new Deva({
     }
   },
 });
-module.exports = DEVELOPMENT
+module.exports = BUSINESS

@@ -5,10 +5,10 @@
   "DATA": {
     "agent": {
       "uid": 2891620655476,
-      "key": "BusinessDeva",
+      "key": "business",
       "prompt": {
         "emoji": "📊",
-        "text": "BusinessDeva",
+        "text": "business",
         "colors": {
           "label": {
             "R": 159,
